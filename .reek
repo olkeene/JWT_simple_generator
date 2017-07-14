@@ -1,0 +1,8 @@
+UnusedPrivateMethod:
+  enabled: false
+
+IrresponsibleModule:
+  enabled: false
+
+PrimaDonnaMethod:
+  enabled: false
